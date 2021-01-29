@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1383F7B9-03D8-4058-A570-E428FA3703C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1383F7B9-03D8-4058-A570-E428FA3703C7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TipCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TipCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TipCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>633634154.21895599</real>
+			<key>timeStoppedRecording</key>
+			<real>633634154.35366499</real>
+			<key>title</key>
+			<string>Build TipCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>1383F7B9-03D8-4058-A570-E428FA3703C7</string>
+		</dict>
+		<key>20C584C1-481C-408F-864F-6EBC1951F629</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20C584C1-481C-408F-864F-6EBC1951F629.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TipCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TipCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TipCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>633630462.87260604</real>
+			<key>timeStoppedRecording</key>
+			<real>633630467.91359794</real>
+			<key>title</key>
+			<string>Build TipCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>20C584C1-481C-408F-864F-6EBC1951F629</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3E7140AF-FDE0-41C0-89E5-F10D39F37B5D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E7140AF-FDE0-41C0-89E5-F10D39F37B5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TipCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TipCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TipCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>633630467.93056798</real>
+			<key>timeStoppedRecording</key>
+			<real>633630529.83197606</real>
+			<key>title</key>
+			<string>Run TipCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>3E7140AF-FDE0-41C0-89E5-F10D39F37B5D</string>
+		</dict>
+		<key>EF5BBEE9-B05D-441A-8402-9F5D2272F84A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF5BBEE9-B05D-441A-8402-9F5D2272F84A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TipCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TipCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TipCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>633634154.370821</real>
+			<key>timeStoppedRecording</key>
+			<real>633634408.46512997</real>
+			<key>title</key>
+			<string>Run TipCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>EF5BBEE9-B05D-441A-8402-9F5D2272F84A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
